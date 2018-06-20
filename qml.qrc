@@ -1,0 +1,40 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Image/1.jpg</file>
+        <file>qml/TestEffect_A.qml</file>
+        <file>qml/TestEffect_B.qml</file>
+        <file>Image/inkPainting1.jpg</file>
+        <file>Image/inkPainting2.jpg</file>
+        <file>Image/inkPainting3.jpg</file>
+        <file>Image/inkPainting4.jpg</file>
+        <file>Image/inkPainting5.jpg</file>
+        <file>Image/inkPainting6.jpg</file>
+        <file>qml/TestEffect_C.qml</file>
+        <file>Image/person1.jpg</file>
+        <file>Image/person2.jpg</file>
+        <file>Image/person4.jpg</file>
+        <file>Image/person3.jpg</file>
+        <file>Image/water1.jpg</file>
+        <file>Image/water2.jpg</file>
+        <file>Image/water3.jpg</file>
+        <file>Image/water4.jpg</file>
+        <file>qml/TestEffect_D.qml</file>
+        <file>Image/1_gray.jpg</file>
+        <file>qml/TestEffect_E.qml</file>
+        <file>qml/TestEffect_F.qml</file>
+        <file>qml/CommonSlider.qml</file>
+        <file>qml/TestEffect_G.qml</file>
+        <file>qml/EffectView.qml</file>
+        <file>Image/ImageView/Test_A.png</file>
+        <file>Image/ImageView/Test_B.png</file>
+        <file>Image/ImageView/Test_C.png</file>
+        <file>Image/ImageView/Test_D.png</file>
+        <file>Image/ImageView/Test_E.png</file>
+        <file>Image/ImageView/Test_F.png</file>
+        <file>Image/ImageView/Test_G.png</file>
+        <file>qml/CommonPage.qml</file>
+        <file>qml/TestEffect_H.qml</file>
+        <file>Image/ImageView/Test_H.png</file>
+    </qresource>
+</RCC>
